@@ -1,37 +1,13 @@
 ## About Me
 
-My name is Soumya Khanna and I'm a third-year Computer Science student at Virginia Tech. 
+My name is Soumya Khanna and I'm a third-year Computer Science student at Virginia Tech. My interests in CS are Software Engineering, Human-Computer Interaction, and Virtual Reality. Over the past summer, I learned mobile application development using ReactNative while participating in a hackathon. I'm currently working on two research projects in echolab under Dr. Sang Won Lee. I'm actively involved with VT clubs and organizations such as Developer Student Club, Student Engineers' Council, Association of Women in Computing, Engineers' Forum, and CEED International Team. I'm easy going mostly but very organized when it comes to meetings and classes.
 
 
+## Resume
 
-### Resume
+[Link](url) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soumyakhanna/soumyakhanna.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
