@@ -5,7 +5,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ## Resume
 
-[Link](Soumya Khanna Resume.pdf) 
+[Link](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) 
 
 
 ## Projects
