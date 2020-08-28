@@ -9,5 +9,5 @@ Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/
 ## Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
-[Email](soumyak@vt.edu)
+[Email](mailto:soumyak@vt.edu)
 
