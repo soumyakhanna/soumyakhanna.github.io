@@ -6,9 +6,9 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ## Undergraduate Research
 
-<br>Narcissistic Eyes</br>
-<br>VR Viewfinder</br>
-<br>360-degree video</br>
+<br>Narcissistic Eyes
+<br>VR Viewfinder
+<br>360-degree video
 
 ## Clubs & Organizations 
 
