@@ -1,2 +1,2 @@
 # soumyakhanna.github.io
-About Me
+Check out https://soumyakhanna.github.io/
