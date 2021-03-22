@@ -33,5 +33,4 @@ Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/
 # Contact Me
 
 <br>Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)</br>
-<br>Contact me [Email](mailto:soumyak@vt.edu)</br?
-
+<br>Contact me [Email](mailto:soumyak@vt.edu)</br>
