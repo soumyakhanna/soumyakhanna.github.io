@@ -5,8 +5,24 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 # Involvement
 
 ## Undergraduate Research
-## CLubs & Organizations 
+
+Narcissitic Eyes
+VR Viewfinder
+360-degree video
+
+## Clubs & Organizations 
+
+Developer Student Clubs, Virginia Tech
+Student Engineers' Council (SEC)
+Association of Women in Computing (AWC)
+Engineers' Forum 
+International Student Support Team
+
 ## Conferences
+
+Grace Hopper Celebration 2020
+UIST 2020
+Harvard WECode 2021
 
 # Projects
 
