@@ -4,7 +4,9 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ## Involvement
 
-Undergraduate Research
+# Undergraduate Research
+# CLubs & Organizations 
+# Conferences
 
 ## Projects
 
