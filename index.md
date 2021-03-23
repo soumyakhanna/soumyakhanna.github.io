@@ -56,6 +56,10 @@ Relevant links:
 
 <br>**Grace Hopper Celebration 2020**
 <br>
+<br>
+![vGHC](vGHC.jpeg)
+<br>
+<br>
 <br>**ACM Symposium on User Interface Science and Technology 2020**
 <br>
 <br>
