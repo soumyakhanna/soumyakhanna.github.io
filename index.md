@@ -25,7 +25,11 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 <br>
 <br>**Student Engineers' Council (SEC)**
 <br>
+-
+-
+-
 
+<br>
 <br>**Association of Women in Computing (AWC)**
 <br>
 
@@ -47,6 +51,10 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 <br>
 <br>
 <br>**Harvard WECode 2021**
+<br>
+<br>
+![Conference](wecode21.JPG)
+<br>
 <br>
 
 # Projects
