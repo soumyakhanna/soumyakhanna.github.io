@@ -25,19 +25,31 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 <br>
 <br>**Student Engineers' Council (SEC)**
 <br>
-  -
-  -
-  -
+  - Redesigned the organization website to make it more user-friendly
+  - Updated & customized the LEC & Engineering Expo websites before the events
+  - Utilized ASP.NET MVC framework to develop the sites
+
+Relevant links:
+[SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
 
 <br>
 <br>**Association of Women in Computing (AWC)**
 <br>
+  - 
+  -
+  -
 
 <br>**Engineers' Forum**
 <br>
+  - 
+  - 
+  - 
 
 <br>**International Student Support Team**
 <br>
+  - 
+  - 
+  - 
 
 
 ## Conferences
