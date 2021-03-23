@@ -22,6 +22,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
   - Managed & led a team of 8+ core team members to coordinate events, members and projects
 
 ![DSC Core Team](dsc3.JPG)
+<br>
 <br>**Student Engineers' Council (SEC)**
 <br>
 
