@@ -25,9 +25,9 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 <br>
 <br>**Student Engineers' Council (SEC)**
 <br>
--
--
--
+  -
+  -
+  -
 
 <br>
 <br>**Association of Women in Computing (AWC)**
