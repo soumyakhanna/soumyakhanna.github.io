@@ -22,7 +22,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 <br>Grace Hopper Celebration 2020
 <br>ACM Symposium on User Interface Science and Technology 2020
-![Echolab Workshop Paper](./Capture.jpg)
+![Echolab Workshop Paper](Capture.JPG)
 <br>Harvard WECode 2021
 
 # Projects
