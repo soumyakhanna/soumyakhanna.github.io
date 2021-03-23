@@ -7,16 +7,24 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 ## Undergraduate Research
 
 <br>**Narcissistic Eyes**
+<br>
 <br>**VR Viewfinder**
+<br>
 <br>**360-degree video**
+<br>
 
 ## Clubs & Organizations 
 
 <br>**Developer Student Clubs, Virginia Tech**
+<br>
 <br>**Student Engineers' Council (SEC)**
+<br>
 <br>**Association of Women in Computing (AWC)**
+<br>
 <br>**Engineers' Forum**
+<br>
 <br>**International Student Support Team**
+<br>
 
 ## Conferences
 
@@ -32,6 +40,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 <br>
 
 # Projects
+
 
 # Resume
 
