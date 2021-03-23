@@ -6,26 +6,28 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ## Undergraduate Research
 
-<br>Narcissistic Eyes
-<br>VR Viewfinder
-<br>360-degree video
+<br>**Narcissistic Eyes**
+<br>**VR Viewfinder**
+<br>**360-degree video**
 
 ## Clubs & Organizations 
 
-<br>Developer Student Clubs, Virginia Tech
-<br>Student Engineers' Council (SEC)
-<br>Association of Women in Computing (AWC)
-<br>Engineers' Forum
-<br>International Student Support Team
+<br>**Developer Student Clubs, Virginia Tech**
+<br>**Student Engineers' Council (SEC)**
+<br>**Association of Women in Computing (AWC)**
+<br>**Engineers' Forum**
+<br>**International Student Support Team**
 
 ## Conferences
 
-<br>Grace Hopper Celebration 2020
-<br>ACM Symposium on User Interface Science and Technology 2020
+<br>**Grace Hopper Celebration 2020**
+<br>
+<br>**ACM Symposium on User Interface Science and Technology 2020**
 <br>
 ![Echolab Workshop Paper](Capture.JPG)
 <br>
-<br>Harvard WECode 2021
+<br>**Harvard WECode 2021**
+<br>
 
 # Projects
 
