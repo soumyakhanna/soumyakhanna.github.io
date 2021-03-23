@@ -17,9 +17,9 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 <br>**Developer Student Clubs, Virginia Tech**
 <br>
-- Increased club membership by 100+ students across 2 colleges
-- Organized 10+ workshops & speaker sessions with 70+ attendees across North America
-- Managed & led a team of 8+ core team members to coordinate events, members and projects
+  - Increased club membership by 100+ students across 2 colleges
+  - Organized 10+ workshops & speaker sessions with 70+ attendees across North America
+  - Managed & led a team of 8+ core team members to coordinate events, members and projects
 <br>
 <br>**Student Engineers' Council (SEC)**
 <br>
