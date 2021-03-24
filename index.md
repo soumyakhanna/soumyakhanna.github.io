@@ -25,7 +25,7 @@ Project description: Evaluate the performance of 360-degree videos based on the 
 
 ### Clubs & Organizations 
 
-[**Developer Student Clubs, Virginia Tech**](https://sites.google.com/vt.edu/dscvt/)
+**[Developer Student Clubs, Virginia Tech](https://sites.google.com/vt.edu/dscvt/)**
 <br>
   - Increased club membership by 100+ students across 2 colleges
   - Organized 10+ workshops & speaker sessions with 70+ attendees across North America
