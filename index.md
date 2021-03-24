@@ -17,7 +17,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ### Clubs & Organizations 
 
-<br>[**Developer Student Clubs, Virginia Tech**](https://sites.google.com/vt.edu/dscvt/)
+[**Developer Student Clubs, Virginia Tech**](https://sites.google.com/vt.edu/dscvt/)
 <br>
   - Increased club membership by 100+ students across 2 colleges
   - Organized 10+ workshops & speaker sessions with 70+ attendees across North America
@@ -102,3 +102,5 @@ Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/
 ## Contact Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 <br>Contact me [Email](mailto:soumyak@vt.edu)
+
+## Gallery 
