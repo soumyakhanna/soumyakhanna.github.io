@@ -125,4 +125,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 <br>Contact me via [email](mailto:soumyak@vt.edu) | 540-449-5627
 
 ## Gallery 
-[VSCO](https://vsco.co/soumyakhanna99/gallery)| [Instagram](https://www.instagram.com/soumya__khanna/)
+[VSCO](https://vsco.co/soumyakhanna99/gallery) | [Instagram](https://www.instagram.com/soumya__khanna/)
