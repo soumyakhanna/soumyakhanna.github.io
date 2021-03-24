@@ -37,7 +37,7 @@ Relevant links:
 ![DSC Core Team](dsc3.JPG)
 *DSC Core Team Meeting*
 <br>
-<br>[**Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)
+<br>**[Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)**
 <br>
   - Redesigned the organization website to make it more user-friendly
   - Updated & customized the LEC & Engineering Expo websites before the events
@@ -50,7 +50,7 @@ Relevant links:
 ![Meet the Dean](Meet the Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
 
-[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
+**[Association of Women in Computing (AWC)](http://www.awc.org.vt.edu/)**
 <br>
   - Headed 3+ outreach events for middle-high school students in the NRV region
   - Partnered with 7+ local schools to raise awareness about STEM 
@@ -59,7 +59,7 @@ Relevant links:
 Relevant links:
 [AWC](http://www.awc.org.vt.edu/)
 
-[**Engineers' Forum**](http://www.ef.org.vt.edu/)
+**[Engineers' Forum](http://www.ef.org.vt.edu/)**
 <br>
   - Streamlined the process for 15+ new club members 
   - Advertised the magazine through 7+ student organizations to increase readership
@@ -72,7 +72,7 @@ Read my articles here:
 - [Hokie Success at NAVAIR FRC East](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
 - [The benefits of the Innovation Campus & Amazon HQ2](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
 
-[**International Student Support Team**](https://eng.vt.edu/ceed.html)
+**[International Student Support Team](https://eng.vt.edu/ceed.html)**
 <br>
   - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
   - Built a virtual community for students through monthly newsletters, shared resources and social media  
@@ -105,15 +105,15 @@ Relevant links:
 *WECode Conference via Hoppin*
 
 ## Projects
-[**Thrifty**](https://github.com/soumyakhanna/Thrifty), SummerHacks 2020 hosted by FreeTailHackers
+**[Thrifty](https://github.com/soumyakhanna/Thrifty)**, SummerHacks 2020 hosted by FreeTailHackers
 <br>Project Description:
 <br>Technologies:
 
-<br>[**RunTime**](https://github.com/soumyakhanna/runTime), SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+<br>**[RunTime](https://github.com/soumyakhanna/runTime)**, SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
 <br>Project Description:
 <br>Technologies:
 
-<br>[**ParkMyCar**](https://github.com/soumyakhanna/parkMyCar), VTHacks 7
+<br>**[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)**, VTHacks 7
 <br>Project Description:
 <br>Technologies:
 
