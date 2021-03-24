@@ -24,6 +24,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
   - Managed & led a team of 8+ core team members to coordinate events, members and projects
 
 ![DSC Core Team](dsc3.JPG)
+DSC Core Team Meeting
 <br>
 <br>[**Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)
 <br>
@@ -36,6 +37,7 @@ Relevant links:
 
 <br>
 ![Meet the Dean](Meet the Dean.png)
+Meeting the Dean of the College of Engineering, Julia Ross
 
 <br>[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
 <br>
