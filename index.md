@@ -19,7 +19,6 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 <br>**360-degree video**
 <br>
   - Implemented a survey for 360-degree video creators
- 
 
 ### Clubs & Organizations 
 
