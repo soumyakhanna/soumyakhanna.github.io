@@ -34,6 +34,9 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 Relevant links:
 [SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
 
+<br>
+![Meet the Dean](Meet the Dean.png)
+
 <br>[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
 <br>
   - Headed 3+ outreach events for middle-high school students in the NRV region
@@ -78,7 +81,6 @@ Read my articles here:
 <br>
 <br>
 ![Conference](wecode21.JPG)
-<br>
 <br>
 
 ## Projects
