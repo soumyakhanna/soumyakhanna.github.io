@@ -67,18 +67,21 @@ Read my articles here:
 
 <br>**Grace Hopper Celebration 2020**
 <br>
+  - Selected as 1 of 25 CS students to receive a scholarship by the Department of Computer Science
 <br>
 ![vGHC](vGHC.jpeg)
 <br>
 <br>
 <br>**ACM Symposium on User Interface Science and Technology 2020**
 <br>
+  - Received a scholarship to represent echolab at Virginia Tech 
 <br>
 ![Echolab Workshop Paper](Capture.JPG)
 <br>
 <br>
 <br>**Harvard WECode 2021**
 <br>
+  - Received a scholarship to attend by the Association of Women in Computing (AWC)
 <br>
 ![Conference](wecode21.JPG)
 <br>
