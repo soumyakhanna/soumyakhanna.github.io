@@ -45,10 +45,10 @@ Relevant links:
 
 Relevant links:
 [SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
-
 <br>
+
 ![Meet the Dean](Meet the Dean.png)
-*Meeting the Dean of the College of Engineering, Julia Ross*
+*Meeting with the Dean of the College of Engineering, Julia Ross*
 
 <br>[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
 <br>
