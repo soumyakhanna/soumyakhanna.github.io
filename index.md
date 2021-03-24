@@ -42,9 +42,9 @@ Relevant links:
 
 <br>[**Engineers' Forum**](http://www.ef.org.vt.edu/)
 <br>
-  - 
-  - 
-  - 
+  - Streamlined the process for 15+ new club members 
+  - Advertised the magazine through 7+ student organizations to increase readership
+  - Recruited new officers for the next academic year
 
 Read my articles here:
 - [COVID-19 Research within the College of Engineering](https://issuu.com/engineersforum/docs/septefissue2020_v7_web)
