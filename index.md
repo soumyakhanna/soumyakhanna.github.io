@@ -92,9 +92,9 @@ Read my articles here:
 <br>
 
 ## Projects
-Thrifty
-<br>RunTime
-<br>ParkMyCar
+[Thrifty](https://github.com/soumyakhanna/Thrifty)
+<br>[RunTime](https://github.com/soumyakhanna/runTime)
+<br>[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
