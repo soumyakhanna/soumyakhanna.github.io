@@ -10,10 +10,16 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 **Narcissistic Eyes**
 <br>
+  - Led 18+ user studies for the project
+ 
 <br>**VR Viewfinder**
 <br>
+  - Improved the Unity environment by adding a color picker and fixing user issues
+ 
 <br>**360-degree video**
 <br>
+  - Implemented a survey for 360-degree video creators
+ 
 
 ### Clubs & Organizations 
 
@@ -87,7 +93,7 @@ Read my articles here:
 <br>
   - Received a scholarship to attend by the Association of Women in Computing (AWC)
 
-<br>![Conference](wecode21.JPG) ![Conference2](wecode.JPG)
+<br>![Conference](wecode21.JPG)
 *WECode Conference via Hoppin*
 <br>
 
