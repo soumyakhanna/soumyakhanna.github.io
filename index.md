@@ -24,7 +24,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
   - Managed & led a team of 8+ core team members to coordinate events, members and projects
 
 ![DSC Core Team](dsc3.JPG)
-DSC Core Team Meeting
+*DSC Core Team Meeting*
 <br>
 <br>[**Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)
 <br>
@@ -37,7 +37,7 @@ Relevant links:
 
 <br>
 ![Meet the Dean](Meet the Dean.png)
-Meeting the Dean of the College of Engineering, Julia Ross
+*Meeting the Dean of the College of Engineering, Julia Ross*
 
 <br>[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
 <br>
@@ -72,6 +72,7 @@ Read my articles here:
   - Selected as 1 of 25 CS students to receive a scholarship by the Department of Computer Science
 
 <br>![vGHC](vGHC.jpeg)
+*Virtual GHC Keynote Speech*
 <br>
 <br>
 <br>**ACM Symposium on User Interface Science and Technology 2020**
@@ -79,6 +80,7 @@ Read my articles here:
   - Received a scholarship to represent echolab at Virginia Tech 
 
 <br>![Echolab Workshop Paper](Capture.JPG)
+*Workshop paper presented by a fellow researcher*
 <br>
 <br>
 <br>**Harvard WECode 2021**
@@ -86,6 +88,7 @@ Read my articles here:
   - Received a scholarship to attend by the Association of Women in Computing (AWC)
 
 <br>![Conference](wecode21.JPG)
+*WECode Conference via Hoppin*
 <br>
 
 ## Projects
