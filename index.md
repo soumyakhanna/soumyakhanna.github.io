@@ -72,7 +72,7 @@ Read my articles here:
 - [Hokie Success at NAVAIR FRC East](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
 - [The benefits of the Innovation Campus & Amazon HQ2](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
 
-<br>[**International Student Support Team**](https://eng.vt.edu/ceed.html)
+[**International Student Support Team**](https://eng.vt.edu/ceed.html)
 <br>
   - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
   - Built a virtual community for students through monthly newsletters, shared resources and social media  
@@ -87,7 +87,6 @@ Read my articles here:
 <br>![vGHC](vGHC.jpeg)
 *Virtual GHC Keynote Speech*
 <br>
-<br>
 <br>**ACM Symposium on User Interface Science and Technology 2020**
 <br>
   - Received a scholarship to represent echolab at Virginia Tech 
@@ -95,14 +94,12 @@ Read my articles here:
 <br>![Echolab Workshop Paper](Capture.JPG)
 *Workshop paper presented by a fellow researcher*
 <br>
-<br>
 <br>**Harvard WECode 2021**
 <br>
   - Received a scholarship to attend by the Association of Women in Computing (AWC)
 
 <br>![Conference](wecode21.JPG)
 *WECode Conference via Hoppin*
-<br>
 
 ## Projects
 [Thrifty](https://github.com/soumyakhanna/Thrifty)
