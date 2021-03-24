@@ -105,17 +105,17 @@ Relevant links:
 *WECode Conference via Hoppin*
 
 ## Projects
-[Thrifty](https://github.com/soumyakhanna/Thrifty), SummerHacks 2020 hosted by FreeTailHackers
-<br>**Project Description**:
-<br>**Technologies**:
+[**Thrifty**](https://github.com/soumyakhanna/Thrifty), SummerHacks 2020 hosted by FreeTailHackers
+<br>Project Description:
+<br>Technologies:
 
-<br>[RunTime](https://github.com/soumyakhanna/runTime), SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
-<br>**Project Description**:
-<br>**Technologies**:
+<br>[**RunTime**](https://github.com/soumyakhanna/runTime), SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+<br>Project Description:
+<br>Technologies:
 
-<br>[ParkMyCar](https://github.com/soumyakhanna/parkMyCar), VTHacks 7
-<br>**Project Description**:
-<br>**Technologies**:
+<br>[**ParkMyCar**](https://github.com/soumyakhanna/parkMyCar), VTHacks 7
+<br>Project Description:
+<br>Technologies:
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
