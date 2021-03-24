@@ -46,11 +46,11 @@ Relevant links:
   - 
 
 Read my articles here:
-- [1](https://issuu.com/engineersforum/docs/aprilefissueissuu)
-- [2](https://issuu.com/engineersforum/docs/septefissue2020_v7_web)
-- [3](http://www.ef.org.vt.edu/wp-content/uploads/2020/03/FebEFIssue_WEB5.pdf)
-- [4](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
-- [5](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
+- [COVID-19 Research within the College of Engineering](https://issuu.com/engineersforum/docs/septefissue2020_v7_web)
+- [inspireFly: Making Space Local](https://issuu.com/engineersforum/docs/aprilefissueissuu)
+- [Supporting International Students in Galipatia LLC](http://www.ef.org.vt.edu/wp-content/uploads/2020/03/FebEFIssue_WEB5.pdf)
+- [Hokie Success at NAVAIR FRC East](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
+- [The benefits of the Innovation Campus & Amazon HQ2](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
 
 <br>**International Student Support Team**
 <br>
@@ -81,7 +81,9 @@ Read my articles here:
 <br>
 
 # Projects
-
+<br>Thrifty
+<br>RunTime
+<br>ParkMyCar
 
 # Resume
 
