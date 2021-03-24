@@ -36,8 +36,8 @@ Relevant links:
 <br>**Association of Women in Computing (AWC)**
 <br>
   - 
-  -
-  -
+  - 
+  - 
 
 <br>**Engineers' Forum**
 <br>
@@ -45,11 +45,18 @@ Relevant links:
   - 
   - 
 
+Read my articles here:
+- [1](https://issuu.com/engineersforum/docs/aprilefissueissuu)
+- [2](https://issuu.com/engineersforum/docs/septefissue2020_v7_web)
+- [3](http://www.ef.org.vt.edu/wp-content/uploads/2020/03/FebEFIssue_WEB5.pdf)
+- [4](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
+- [5](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
+
 <br>**International Student Support Team**
 <br>
-  - 
-  - 
-  - 
+  - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
+  - Built a virtual community for students through monthly newsletters, shared resources and social media  
+  - Successfully recruited 30+ international students to the engineering living learning communities Galipatia 
 
 
 ## Conferences
