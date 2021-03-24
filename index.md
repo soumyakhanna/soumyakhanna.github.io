@@ -78,6 +78,9 @@ Read my articles here:
   - Built a virtual community for students through monthly newsletters, shared resources and social media  
   - Successfully recruited 30+ international students to the engineering living learning communities Galipatia 
 
+Relevant links:
+[ISST](https://www.instagram.com/ceed_intl)
+
 ### Conferences
 
 **Grace Hopper Celebration 2020**
@@ -102,15 +105,14 @@ Read my articles here:
 *WECode Conference via Hoppin*
 
 ## Projects
-[Thrifty](https://github.com/soumyakhanna/Thrifty)
-  - SummerHacks 2020 hosted by FreeTailHackers
+[Thrifty](https://github.com/soumyakhanna/Thrifty), SummerHacks 2020 hosted by FreeTailHackers
+  - Technologies:
 
-<br>[RunTime](https://github.com/soumyakhanna/runTime)
-  - SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+<br>[RunTime](https://github.com/soumyakhanna/runTime), SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+  - Technologies:
 
-<br>[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)
-  - VTHacks 7 by Virginia Tech
-
+<br>[ParkMyCar](https://github.com/soumyakhanna/parkMyCar), VTHacks 7
+  - Technologies:
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
