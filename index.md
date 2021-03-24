@@ -8,7 +8,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ### [Research](https://echolab.cs.vt.edu/)
 
-<br>**Narcissistic Eyes**
+**Narcissistic Eyes**
 <br>
 <br>**VR Viewfinder**
 <br>
@@ -65,7 +65,7 @@ Read my articles here:
 
 ### Conferences
 
-<br>**Grace Hopper Celebration 2020**
+**Grace Hopper Celebration 2020**
 <br>
   - Selected as 1 of 25 CS students to receive a scholarship by the Department of Computer Science
 <br>
@@ -87,15 +87,13 @@ Read my articles here:
 <br>
 
 ## Projects
-<br>Thrifty
+Thrifty
 <br>RunTime
 <br>ParkMyCar
 
 ## Resume
-
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
 
 ## Contact Me
-
-<br>Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 <br>Contact me [Email](mailto:soumyak@vt.edu)
