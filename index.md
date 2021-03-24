@@ -50,7 +50,7 @@ Relevant links:
 ![Meet the Dean](Meet the Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
 
-<br>[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
+[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
 <br>
   - Headed 3+ outreach events for middle-high school students in the NRV region
   - Partnered with 7+ local schools to raise awareness about STEM 
@@ -59,7 +59,7 @@ Relevant links:
 Relevant links:
 [AWC](http://www.awc.org.vt.edu/)
 
-<br>[**Engineers' Forum**](http://www.ef.org.vt.edu/)
+[**Engineers' Forum**](http://www.ef.org.vt.edu/)
 <br>
   - Streamlined the process for 15+ new club members 
   - Advertised the magazine through 7+ student organizations to increase readership
