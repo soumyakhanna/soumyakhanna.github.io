@@ -6,7 +6,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ## Undergraduate Involvement
 
-### Undergraduate Research
+### Research
 
 <br>**Narcissistic Eyes**
 <br>
