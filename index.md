@@ -87,7 +87,7 @@ Read my articles here:
 <br>
   - Received a scholarship to attend by the Association of Women in Computing (AWC)
 
-<br>![Conference](wecode21.JPG)
+<br>![Conference](wecode21.JPG) ![Conference2](wecode.JPG)
 *WECode Conference via Hoppin*
 <br>
 
