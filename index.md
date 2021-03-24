@@ -98,15 +98,12 @@ Read my articles here:
 
 ## Projects
 [Thrifty](https://github.com/soumyakhanna/Thrifty)
-<br>
   - SummerHacks 2020 hosted by FreeTailHackers
 
 <br>[RunTime](https://github.com/soumyakhanna/runTime)
-<br>
   - SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
 
 <br>[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)
-<br>
   - VTHacks 7 by Virginia Tech
 
 
