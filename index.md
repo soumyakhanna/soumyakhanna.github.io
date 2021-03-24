@@ -98,8 +98,17 @@ Read my articles here:
 
 ## Projects
 [Thrifty](https://github.com/soumyakhanna/Thrifty)
+<br>
+  - SummerHacks 2020 hosted by FreeTailHackers
+
 <br>[RunTime](https://github.com/soumyakhanna/runTime)
+<br>
+  - SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
+
 <br>[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)
+<br>
+  - VTHacks 7 by Virginia Tech
+
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
@@ -109,3 +118,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 <br>Contact me [Email](mailto:soumyak@vt.edu)
 
 ## Gallery 
+<br> ![]()
