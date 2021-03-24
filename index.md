@@ -6,7 +6,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ## Undergraduate Involvement
 
-### Research
+### [Research](https://echolab.cs.vt.edu/)
 
 <br>**Narcissistic Eyes**
 <br>
@@ -17,7 +17,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ### Clubs & Organizations 
 
-<br>**Developer Student Clubs, Virginia Tech**
+<br>[**Developer Student Clubs, Virginia Tech**](https://sites.google.com/vt.edu/dscvt/)
 <br>
   - Increased club membership by 100+ students across 2 colleges
   - Organized 10+ workshops & speaker sessions with 70+ attendees across North America
@@ -25,7 +25,7 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 
 ![DSC Core Team](dsc3.JPG)
 <br>
-<br>**Student Engineers' Council (SEC)**
+<br>[**Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)
 <br>
   - Redesigned the organization website to make it more user-friendly
   - Updated & customized the LEC & Engineering Expo websites before the events
@@ -34,14 +34,13 @@ My name is Soumya Khanna and I'm a third-year Computer Science student at Virgin
 Relevant links:
 [SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
 
-<br>
-<br>**Association of Women in Computing (AWC)**
+<br>[**Association of Women in Computing (AWC)**](http://www.awc.org.vt.edu/)
 <br>
   - Headed 3+ outreach events for middle-high school students in the NRV region
   - Partnered with 7+ local schools to raise awareness about STEM 
   - Guided a group of 10+ student volunteers to support the events
 
-<br>**Engineers' Forum**
+<br>[**Engineers' Forum**](http://www.ef.org.vt.edu/)
 <br>
   - 
   - 
@@ -54,7 +53,7 @@ Read my articles here:
 - [Hokie Success at NAVAIR FRC East](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
 - [The benefits of the Innovation Campus & Amazon HQ2](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
 
-<br>**International Student Support Team**
+<br>[**International Student Support Team**](https://eng.vt.edu/ceed.html)
 <br>
   - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
   - Built a virtual community for students through monthly newsletters, shared resources and social media  
