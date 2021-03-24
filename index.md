@@ -31,6 +31,9 @@ Project description: Evaluate the performance of 360-degree videos based on the 
   - Organized 10+ workshops & speaker sessions with 70+ attendees across North America
   - Managed & led a team of 8+ core team members to coordinate events, members and projects
 
+Relevant links:
+[DSC](https://sites.google.com/vt.edu/dscvt/) | [YouTube](https://www.youtube.com/channel/UCojVJ9mRM8hkmyYOU90hFEQ/featured)
+
 ![DSC Core Team](dsc3.JPG)
 *DSC Core Team Meeting*
 <br>
@@ -53,6 +56,9 @@ Relevant links:
   - Partnered with 7+ local schools to raise awareness about STEM 
   - Guided a group of 10+ student volunteers to support the events
 
+Relevant links:
+[AWC](http://www.awc.org.vt.edu/)
+
 <br>[**Engineers' Forum**](http://www.ef.org.vt.edu/)
 <br>
   - Streamlined the process for 15+ new club members 
@@ -71,7 +77,6 @@ Read my articles here:
   - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
   - Built a virtual community for students through monthly newsletters, shared resources and social media  
   - Successfully recruited 30+ international students to the engineering living learning communities Galipatia 
-
 
 ### Conferences
 
@@ -115,7 +120,7 @@ Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/
 
 ## Contact Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
-<br>Contact me [Email](mailto:soumyak@vt.edu)
+<br>Contact me via [email](mailto:soumyak@vt.edu) | 540-449-5627
 
 ## Gallery 
 <br> ![]()
