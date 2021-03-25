@@ -40,7 +40,7 @@ Relevant links:
 ![DSC Core Team](dsc3.JPG)
 *DSC Core Team Meeting*
 <br>
-Information Management Chair, <br>**[Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)**
+<br>Information Management Chair, **[Student Engineers' Council (SEC)**](https://www.sec.vt.edu/)**
 <br>
   - Redesigned the organization website to make it more user-friendly
   - Updated & customized the LEC & Engineering Expo websites before the events
