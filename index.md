@@ -23,6 +23,9 @@ Project description: Provide an interactive third-person perspective while watch
 Project description: Evaluate the performance of 360-degree videos based on the different orientations to provide a more natural experience to users as well as understanding the future use of 360-degree videos.
   - Implemented a survey for 360-degree video creators
 
+Relevant links:
+[Spring 2020](https://youtu.be/C8OIFwEZQNA) | [Fall 2020](https://youtu.be/SbFyRXyIDWs)
+
 ### Clubs & Organizations 
 
 **[Developer Student Clubs, Virginia Tech](https://sites.google.com/vt.edu/dscvt/)**
@@ -109,13 +112,22 @@ Relevant links:
 <br>Project Description:
 <br>Technologies:
 
+Relevant links:
+[Demo](https://youtu.be/8VDqAQhb80g) | [Devpost](https://devpost.com/software/thrifty-69fay0)
+
 <br>**[RunTime](https://github.com/soumyakhanna/runTime)**, SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
 <br>Project Description:
 <br>Technologies:
 
+Relevant links:
+
+
 <br>**[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)**, VTHacks 7
 <br>Project Description:
 <br>Technologies:
+
+Relevant links: 
+[Devpost](https://devpost.com/software/parkmycar-15lazr)
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
