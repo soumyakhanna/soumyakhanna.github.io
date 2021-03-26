@@ -50,9 +50,9 @@ Relevant links:
 
 ### [Relevant Coursework](https://cs.vt.edu/)
 
-Theme: Time x Space x Together x Apart
 **[CS 4644 - Creative Computing Studio Capstone](https://people.cs.vt.edu/barnette/undergrad/capstone/Spring2021/4644%20Sp%202021%20Creative%20Computing%20flyer.pdf)**
 
+Theme: Time x Space x Together x Apart
 Relevant links: [Semester Project](https://github.com/soumyakhanna/Mashed.mp3)
 
 **[CS 4784 - Human-Computer Interaction Capstone](https://people.cs.vt.edu/barnette/undergrad/capstone/Spring2021/4784%20Sp%202021%20HCI%20Capstone%20Flyer.pdf)**
@@ -95,7 +95,7 @@ Relevant links:
 ![SEC Exec](SECexec.png)
 *SEC Executive Board onboarding meeting*
 
-![Meet the Dean](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/eecb0f31ba903bc63dfad67fcbf38d594efc0200/Meet%20the%20Dean.png)
+![Meet the Dean](Meet the Dean.PNG)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
 
 Outreach Junior Chair, **[Association of Women in Computing (AWC)](http://www.awc.org.vt.edu/)**
