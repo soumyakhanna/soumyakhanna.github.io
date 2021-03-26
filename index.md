@@ -48,21 +48,23 @@ Relevant links:
   -
   -
 
-### Relevant Coursework
+### [Relevant Coursework](https://cs.vt.edu/)
 
-**CS 4644 - Creative Computing Studio Capstone**
+Theme: Time x Space x Together x Apart
+**[CS 4644 - Creative Computing Studio Capstone](https://people.cs.vt.edu/barnette/undergrad/capstone/Spring2021/4644%20Sp%202021%20Creative%20Computing%20flyer.pdf)**
 
 Relevant links: [Semester Project](https://github.com/soumyakhanna/Mashed.mp3)
 
-**CS 4784 - Human-Computer Interaction Capstone**
+**[CS 4784 - Human-Computer Interaction Capstone](https://people.cs.vt.edu/barnette/undergrad/capstone/Spring2021/4784%20Sp%202021%20HCI%20Capstone%20Flyer.pdf)**
 
+Theme: Difficult Conversations
 Relevant links: [Semester Project](https://github.com/soumyakhanna/TalkItOut)
 
-**CS 3724 - Introduction to Human-Computer Interaction**
+**[CS 3724 - Introduction to Human-Computer Interaction](https://cs.vt.edu/Undergraduate/courses/CS3724.html)**
 
 Relevant links:
 
-**CS 3744 - Introdution to GUI Programming**
+**[CS 3744 - Introdution to GUI Programming](https://cs.vt.edu/Undergraduate/courses/CS3744.html)**
 
 Relevant links:
 
@@ -91,9 +93,9 @@ Relevant links:
 <br>
 
 ![SEC Exec](SECexec.png)
-*SEC Executive Board*
+*SEC Executive Board onboarding meeting*
 
-![Meet the Dean](Meet the Dean.png)
+![Meet the Dean](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/eecb0f31ba903bc63dfad67fcbf38d594efc0200/Meet%20the%20Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
 
 Outreach Junior Chair, **[Association of Women in Computing (AWC)](http://www.awc.org.vt.edu/)**
