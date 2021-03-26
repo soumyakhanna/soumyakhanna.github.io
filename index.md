@@ -28,24 +28,24 @@ Relevant links:
 
 ### Work Experience
 
-**Resident Advisor**
+**Resident Advisor**, VT Housing and Residence Life
 
-**Software Engineering Intern**
+**Software Engineering Intern**, Newgen Software
 
-**Global Ambassador**
+**Global Ambassador**, VT New Student and Family Programs
 
-**Student Assistant Manager**
+**Student Assistant Manager**, VT Dining Services
 
 ### Relevant Coursework
 
-**CS 4644 - Creative Computing Studio**
+**CS 4644 - Creative Computing Studio Capstone**
 
-Relevant links:
+Relevant links: [Semester Project](https://github.com/soumyakhanna/Mashed.mp3)
 
 
-**CS 4784 - Human-Computer Interaction**
+**CS 4784 - Human-Computer Interaction Capstone**
 
-Relevant links:
+Relevant links: [Semester Project](https://github.com/soumyakhanna/TalkItOut)
 
 
 **CS 3724 - Introduction to Human-Computer Interaction**
