@@ -53,12 +53,12 @@ Relevant links:
 **[CS 4644 - Creative Computing Studio Capstone](https://people.cs.vt.edu/barnette/undergrad/capstone/Spring2021/4644%20Sp%202021%20Creative%20Computing%20flyer.pdf)**
 
 Theme: Time x Space x Together x Apart
-Relevant links: [Semester Project](https://github.com/soumyakhanna/Mashed.mp3)
+<br>Relevant links: [Semester Project](https://github.com/soumyakhanna/Mashed.mp3)
 
 **[CS 4784 - Human-Computer Interaction Capstone](https://people.cs.vt.edu/barnette/undergrad/capstone/Spring2021/4784%20Sp%202021%20HCI%20Capstone%20Flyer.pdf)**
 
 Theme: Difficult Conversations
-Relevant links: [Semester Project](https://github.com/soumyakhanna/TalkItOut)
+<br>Relevant links: [Semester Project](https://github.com/soumyakhanna/TalkItOut)
 
 **[CS 3724 - Introduction to Human-Computer Interaction](https://cs.vt.edu/Undergraduate/courses/CS3724.html)**
 
