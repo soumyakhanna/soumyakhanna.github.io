@@ -29,12 +29,24 @@ Relevant links:
 ### Work Experience
 
 **Resident Advisor**, VT Housing and Residence Life
+  -
+  -
+  -
 
 **Software Engineering Intern**, Newgen Software
+  -
+  -
+  -
 
 **Global Ambassador**, VT New Student and Family Programs
+  -
+  -
+  -
 
 **Student Assistant Manager**, VT Dining Services
+  -
+  -
+  -
 
 ### Relevant Coursework
 
@@ -42,15 +54,17 @@ Relevant links:
 
 Relevant links: [Semester Project](https://github.com/soumyakhanna/Mashed.mp3)
 
-
 **CS 4784 - Human-Computer Interaction Capstone**
 
 Relevant links: [Semester Project](https://github.com/soumyakhanna/TalkItOut)
 
-
 **CS 3724 - Introduction to Human-Computer Interaction**
 
+Relevant links:
+
 **CS 3744 - Introdution to GUI Programming**
+
+Relevant links:
 
 ### Clubs & Organizations 
 
@@ -75,6 +89,9 @@ Relevant links:
 Relevant links:
 [SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
 <br>
+
+![SEC Exce](SECexec.PNG)
+*SEC Executive Board*
 
 ![Meet the Dean](Meet the Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
@@ -144,6 +161,7 @@ Relevant links:
 <br>**[RunTime](https://github.com/soumyakhanna/runTime)**, SheHacksVT 2020 hosted by Association of Women in Computing (AWC)
 <br>Project Description:
 <br>Technologies: HTML, CSS, JS, jQuery
+<br>Award: Won Best Cyber-Focused Award
 
 Relevant links:
 
