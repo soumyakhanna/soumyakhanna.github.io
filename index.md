@@ -26,6 +26,24 @@ Project description: Evaluate the performance of 360-degree videos based on the 
 Relevant links:
 [Spring 2020](https://youtu.be/C8OIFwEZQNA) | [Fall 2020](https://youtu.be/SbFyRXyIDWs)
 
+### Work Experience
+
+### Relevant Coursework
+
+**CS 4644 - Creative Computing Studio**
+
+Relevant links:
+
+
+**CS 4784 - Human-Computer Interaction**
+
+Relevant links:
+
+
+**CS 3724 - Introduction to Human-Computer Interaction**
+
+**CS 3744 - Introdution to GUI Programming**
+
 ### Clubs & Organizations 
 
 Lead, **[Developer Student Clubs by Google Developers, Virginia Tech](https://sites.google.com/vt.edu/dscvt/)**
@@ -107,7 +125,7 @@ Relevant links:
 <br>![Conference](wecode21.JPG)
 *WECode Conference via Hoppin*
 
-## Projects
+### Projects
 **[Thrifty](https://github.com/soumyakhanna/Thrifty)**, SummerHacks 2020 hosted by FreeTailHackers
 <br>Project Description:
 <br>Technologies: Python, ReactNative, numpy
@@ -121,13 +139,21 @@ Relevant links:
 
 Relevant links:
 
-
 <br>**[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)**, VTHacks 7
 <br>Project Description:
 <br>Technologies: HTML, CSS, JS, jQuery
 
 Relevant links: 
 [Devpost](https://devpost.com/software/parkmycar-15lazr)
+
+### Awards and Honors
+
+**Dean's List**
+
+Relevant links:
+[Fall 2020]() | [Spring 2020]() | [Spring 2019]() | [Fall 2018]()
+
+<br>**Recipient of Housing Scholarship**
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
