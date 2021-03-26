@@ -90,7 +90,7 @@ Relevant links:
 [SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
 <br>
 
-![SEC Exce](SECexec.PNG)
+![SEC Exec](SECexec.png)
 *SEC Executive Board*
 
 ![Meet the Dean](Meet the Dean.png)
