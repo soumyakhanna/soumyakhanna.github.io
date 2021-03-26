@@ -28,6 +28,14 @@ Relevant links:
 
 ### Work Experience
 
+**Resident Advisor**
+
+**Software Engineering Intern**
+
+**Global Ambassador**
+
+**Student Assistant Manager**
+
 ### Relevant Coursework
 
 **CS 4644 - Creative Computing Studio**
@@ -153,7 +161,7 @@ Relevant links:
 Relevant links:
 [Fall 2020]() | [Spring 2020]() | [Spring 2019]() | [Fall 2018]()
 
-<br>**Recipient of Housing Scholarship**
+**Recipient of Housing Scholarship**
 
 ## Resume
 Click [here](https://github.com/soumyakhanna/soumyakhanna.github.io/blob/master/Soumya%20Khanna%20Resume.pdf) to view my resume.
@@ -163,4 +171,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 <br>Contact me via [email](mailto:soumyak@vt.edu) | 540-449-5627
 
 ## Gallery 
-[VSCO](https://vsco.co/soumyakhanna99/gallery) | [Instagram](https://www.instagram.com/soumya__khanna/) | [YouTube](https://www.youtube.com/channel/UCkoSc7KAlIw4I80SUfLtjsg) 
+[VSCO](https://vsco.co/soumyakhanna99/gallery) | [Instagram](https://www.instagram.com/sktraveldiaries/) | [YouTube](https://www.youtube.com/channel/UCkoSc7KAlIw4I80SUfLtjsg) 
