@@ -95,7 +95,7 @@ Relevant links:
 ![SEC Exec](SECexec.png)
 *SEC Executive Board onboarding meeting*
 
-![Meet the Dean](Meet the Dean.PNG)
+![Meet the Dean](Meet the Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
 
 Outreach Junior Chair, **[Association of Women in Computing (AWC)](http://www.awc.org.vt.edu/)**
