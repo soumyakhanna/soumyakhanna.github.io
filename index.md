@@ -71,9 +71,6 @@ Lead, **[Developer Student Clubs by Google Developers, Virginia Tech](https://si
 Relevant links:
 [DSC](https://sites.google.com/vt.edu/dscvt/) | [YouTube](https://www.youtube.com/channel/UCojVJ9mRM8hkmyYOU90hFEQ/featured)
 
-![DSC Core Team](dsc3.JPG)
-*DSC Core Team Meeting*
-<br>
 <br>Information Management Chair, **[Student Engineers' Council (SEC)](https://www.sec.vt.edu/)**
 <br>
   - Redesigned the organization website to make it more user-friendly
@@ -83,12 +80,6 @@ Relevant links:
 Relevant links:
 [SEC](https://www.sec.vt.edu/) | [Expo](https://expo.sec.vt.edu/) 
 <br>
-
-![SEC Exec](SECexec.png)
-*SEC Executive Board onboarding meeting*
-
-![Meet the Dean](Meet the Dean.png)
-*Meeting with the Dean of the College of Engineering, Julia Ross*
 
 Outreach Junior Chair, **[Association of Women in Computing (AWC)](http://www.awc.org.vt.edu/)**
 <br>
@@ -112,9 +103,6 @@ Read my articles here:
 - [Hokie Success at NAVAIR FRC East](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
 - [The benefits of the Innovation Campus & Amazon HQ2](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
 
-![EF Team](EF_lastmeeting.png)
-*Engineers' Forum last meeting*
-
 President, **[International Student Support Team](https://eng.vt.edu/ceed.html)**
 <br>
   - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
@@ -123,9 +111,6 @@ President, **[International Student Support Team](https://eng.vt.edu/ceed.html)*
 
 Relevant links:
 [ISST](https://www.instagram.com/ceed_intl)
-
-![ISST Event](ISST_Facultyevent.png)
-*ISST Engineering Faculty event*
 
 ### Conferences
 
@@ -190,3 +175,19 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 
 ## Gallery 
 [VSCO](https://vsco.co/soumyakhanna99/gallery) | [Instagram](https://www.instagram.com/sktraveldiaries/) | [YouTube](https://www.youtube.com/channel/UCkoSc7KAlIw4I80SUfLtjsg) 
+
+![DSC Core Team](dsc3.JPG)
+*DSC Core Team Meeting*
+<br>
+
+![SEC Exec](SECexec.png)
+*SEC Executive Board onboarding meeting*
+
+![Meet the Dean](Meet the Dean.png)
+*Meeting with the Dean of the College of Engineering, Julia Ross*
+
+![EF Team](EF_lastmeeting.png)
+*Engineers' Forum last meeting*
+
+![ISST Event](ISST_Facultyevent.png)
+*ISST Engineering Faculty event*
