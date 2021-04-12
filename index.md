@@ -144,8 +144,6 @@ Relevant links:
 <br>Technologies: HTML, CSS, JS, jQuery
 <br>Award: Won Best Cyber-Focused Award
 
-Relevant links:
-
 <br>**[ParkMyCar](https://github.com/soumyakhanna/parkMyCar)**, VTHacks 7
 <br>Project Description:
 <br>Technologies: HTML, CSS, JS, jQuery
@@ -180,15 +178,19 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 
 ![SEC Exec](SECexec.png)
 *SEC Executive Board onboarding meeting*
+<br>
 
 ![Meet the Dean](Meet the Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
+<br>
 
 ![EF Team](EF_lastmeeting.png)
 *Engineers' Forum last meeting*
+<br>
 
 ![ISST Event](ISST_Facultyevent.png)
 *ISST Engineering Faculty event*
+<br>
 
 **Conferences**
 
@@ -202,3 +204,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 
 <br>![Conference](wecode21.JPG)
 *WECode Conference via Hoppin*
+<br>
