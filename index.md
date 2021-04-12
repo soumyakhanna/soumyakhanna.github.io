@@ -127,7 +127,7 @@ Relevant links:
 <br>
   - Received a scholarship to represent echolab at Virginia Tech 
 
-<br>**Harvard WECode 2021**
+**Harvard WECode 2021**
 <br>
   - Received a scholarship to attend by the Association of Women in Computing (AWC)
 
@@ -172,7 +172,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 ## Gallery 
 [VSCO](https://vsco.co/soumyakhanna99/gallery) | [Instagram](https://www.instagram.com/sktraveldiaries/) | [YouTube](https://www.youtube.com/channel/UCkoSc7KAlIw4I80SUfLtjsg) 
 
-<br>**Club Involvement**
+**Club Involvement**
 
 ![DSC Core Team](dsc3.JPG)
 *DSC Core Team Meeting*
@@ -190,7 +190,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 ![ISST Event](ISST_Facultyevent.png)
 *ISST Engineering Faculty event*
 
-<br>**Conferences**
+**Conferences**
 
 ![vGHC](vGHC.jpeg)
 *Virtual GHC Keynote Speech*
