@@ -120,6 +120,9 @@ Read my articles here:
 - [Hokie Success at NAVAIR FRC East](http://www.ef.org.vt.edu/wp-content/uploads/2019/08/SeptEFIssueFinal10_nobleed2.pdf)
 - [The benefits of the Innovation Campus & Amazon HQ2](http://www.ef.org.vt.edu/wp-content/uploads/2019/05/AprEFIssueFinal-Bleed-min.pdf)
 
+![EF Team](EF_lastmeeting.png)
+*Engineers' Forum last meeting*
+
 President, **[International Student Support Team](https://eng.vt.edu/ceed.html)**
 <br>
   - Organized 10+ events throughout the year for 100+ international freshmen within the College of Engineering
@@ -128,6 +131,9 @@ President, **[International Student Support Team](https://eng.vt.edu/ceed.html)*
 
 Relevant links:
 [ISST](https://www.instagram.com/ceed_intl)
+
+![ISST Event](ISST Faculty Event.png)
+*ISST Engineering Faculty event*
 
 ### Conferences
 
