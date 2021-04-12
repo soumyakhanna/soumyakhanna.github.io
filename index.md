@@ -29,24 +29,16 @@ Relevant links:
 ### Work Experience
 
 **Resident Advisor**, VT Housing and Residence Life
-  -
-  -
-  -
+  - Built a community of 30+ first year engineering students in the Galipatia, Engineering Living Learning Community (LLC)
 
 **Software Engineering Intern**, Newgen Software
-  -
-  -
-  -
+  - Collaborated with the CCM team to evaluate the OmniOMS product by analyzing code in Java and JavaScript, scanning for bugs and vulnerabilities, and securing the infrastructure 
 
 **Global Ambassador**, VT New Student and Family Programs
-  -
-  -
-  -
+  - Headed orientation for a group of 20 first-year international students, informing them about the university programs and problem-solving the various issues they faced throughout the academic year
 
 **Student Assistant Manager**, VT Dining Services
-  -
-  -
-  -
+  - Guided and supervised 20+ new student employees in providing a satisfactory customer experience
 
 ### [Relevant Coursework](https://cs.vt.edu/)
 
