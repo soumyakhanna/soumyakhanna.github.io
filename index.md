@@ -132,7 +132,7 @@ President, **[International Student Support Team](https://eng.vt.edu/ceed.html)*
 Relevant links:
 [ISST](https://www.instagram.com/ceed_intl)
 
-![ISST Event](ISST Faculty Event.png)
+![ISST Event](ISST_Facultyevent.png)
 *ISST Engineering Faculty event*
 
 ### Conferences
