@@ -71,7 +71,7 @@ Lead, **[Developer Student Clubs by Google Developers, Virginia Tech](https://si
 Relevant links:
 [DSC](https://sites.google.com/vt.edu/dscvt/) | [YouTube](https://www.youtube.com/channel/UCojVJ9mRM8hkmyYOU90hFEQ/featured)
 
-<br>Information Management Chair, **[Student Engineers' Council (SEC)](https://www.sec.vt.edu/)**
+Information Management Chair, **[Student Engineers' Council (SEC)](https://www.sec.vt.edu/)**
 <br>
   - Redesigned the organization website to make it more user-friendly
   - Updated & customized the LEC & Engineering Expo websites before the events
