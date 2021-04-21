@@ -1,4 +1,4 @@
-# Welcome to Soumya's website :)
+# Welcome to Soumya's website :) 
 
 ## About Me
 
@@ -12,19 +12,16 @@ My name is Soumya Khanna and I'm a Computer Science senior at Virginia Tech grad
 <br>
 Project description: Study self-monitoring in video conferences based on different social aspects by tracking eye movements while conducting a mock job    interview.
   - Led 18+ user studies for the project
-  - 
  
 **VR Viewfinder**
 <br>
 Project description: Provide an interactive third-person perspective while watching live VR art performances. 
   - Improved the Unity environment by adding a color picker and fixing user issues
-  - 
  
 **360-degree video**
 <br>
 Project description: Evaluate the performance of 360-degree videos based on the different orientations to provide a more natural experience to users as well as understanding the future use of 360-degree videos.
   - Implemented a survey for 360-degree video creators
-  - 
 
 Relevant links:
 [Spring 2020](https://youtu.be/C8OIFwEZQNA) | [Fall 2020](https://youtu.be/SbFyRXyIDWs)
@@ -33,11 +30,9 @@ Relevant links:
 
 **Resident Advisor**, VT Housing and Residence Life
   - Built a community of 30+ first year engineering students in the Galipatia, Engineering Living Learning Community (LLC)
-  - 
 
 **Software Engineering Intern**, Newgen Software
   - Collaborated with the CCM team to evaluate the OmniOMS product by analyzing code in Java and JavaScript, scanning for bugs and vulnerabilities, and securing the infrastructure 
-  - 
 
 **Global Ambassador**, VT New Student and Family Programs
   - Headed orientation for a group of 20 first-year international students, informing them about the university programs and problem-solving the various issues they faced throughout the academic year
