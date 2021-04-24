@@ -24,8 +24,7 @@ Project description: Evaluate the performance of 360-degree videos based on the 
   - Implemented a survey for 360-degree video creators
 
 Relevant links:
-[Spring 2020](https://youtu.be/C8OIFwEZQNA) | [Fall 2020](https://youtu.be/SbFyRXyIDWs)
-<br>[HCI Paper Presentation I]() | [HCI Paper Presentation II](https://docs.google.com/presentation/d/1Je-42hoQxmbW6NKvb4P7-UsPfitJT9s8ySqcIf0mfp8/edit?usp=sharing)
+[Reflection Spring 2020](https://youtu.be/C8OIFwEZQNA) | [Reflection Fall 2020](https://youtu.be/SbFyRXyIDWs) | [HCI Paper Presentation I]() | [HCI Paper Presentation II](https://docs.google.com/presentation/d/1Je-42hoQxmbW6NKvb4P7-UsPfitJT9s8ySqcIf0mfp8/edit?usp=sharing)
 
 ### Work Experience
 
