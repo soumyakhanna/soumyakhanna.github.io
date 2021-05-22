@@ -167,33 +167,33 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 
 **Club Involvement**
 
-![DSC Core Team](dsc3.JPG)
+![DSC Core Team](./Gallery/dsc3.JPG)
 *DSC Core Team Meeting*
 <br>
 
-![SEC Exec](SECexec.png)
+![SEC Exec](./Gallery/SECexec.png)
 *SEC Executive Board onboarding meeting*
 <br>
 
-![Meet the Dean](Meet the Dean.png)
+![Meet the Dean](./Gallery/Meet the Dean.png)
 *Meeting with the Dean of the College of Engineering, Julia Ross*
 <br>
 
-![EF Team](EF_lastmeeting.png)
+![EF Team](./Gallery/EF_lastmeeting.png)
 *Engineers' Forum last meeting*
 <br>
 
-![ISST Event](ISST_Facultyevent.png)
+![ISST Event](./Gallery/ISST_Facultyevent.png)
 *ISST Engineering Faculty event*
 <br>
 
 **Conferences**
 
-![vGHC](vGHC.jpeg)
+![vGHC](./Gallery/vGHC.jpeg)
 *Virtual GHC Keynote Speech*
 <br>
 
-<br>![Echolab Workshop Paper](Capture.JPG)
+<br>![Echolab Workshop Paper](./Gallery/Capture.JPG)
 *Workshop paper presented by a fellow researcher*
 <br>
 
