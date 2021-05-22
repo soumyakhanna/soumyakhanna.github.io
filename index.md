@@ -197,6 +197,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 *Workshop paper presented by a fellow researcher*
 <br>
 
-<br>![Conference](wecode21.JPG)
+<br>![Conference](./Gallery/wecode21.JPG)
 *WECode Conference via Hoppin*
 <br>
